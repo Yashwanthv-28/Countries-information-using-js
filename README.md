@@ -36,7 +36,7 @@ To use this application:
 1. *Clone the repository:*
 
     bash
-    git clone https://github.com/Yashwanthv-28/country-information-using-js.git
+    git clone https://github.com/Yashwanthv-28/countries-information-using-js.git
     
 
 2. *Navigate to the project directory:*
