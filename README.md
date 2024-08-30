@@ -1,4 +1,4 @@
-# Country Information Search
+![Screenshot 2024-08-30 223029](https://github.com/user-attachments/assets/2f533b93-31ca-478d-9554-f12ab610b081)# Country Information Search
 
 A simple web application that allows users to search for country details using the REST Countries API.
 
@@ -58,8 +58,10 @@ To use this application:
 - *REST Countries API:* The application fetches data using the REST Countries API. No additional dependencies are required.
 
 ## Results
-![Country Information Search Screenshot]("Screenshot 2024-08-30 223100.png")
-![Country Information Search Screenshot](C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223100.png)
+![Country Information Search Screenshot]("![Screenshot 2024-08-30 223029](https://github.com/user-attachments/assets/30d1cd7f-e8c0-44ae-99a1-988b78084976)
+")
+![Country Information Search Screenshot](![Screenshot 2024-08-30 223100](https://github.com/user-attachments/assets/ff0ec54e-bd5b-454e-b320-a06141dd5244)
+)
 
 ## Contributing
 
