@@ -2,6 +2,16 @@
 
 A simple web application that allows users to search for country details using the REST Countries API.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Files in the Repository](#files-in-the-repository)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Project Overview
 
 This project is a basic web application that lets users search for information about countries, such as their capital, region, and population. The application uses JavaScript to fetch data from the REST Countries API and displays it in a user-friendly format.
@@ -25,7 +35,7 @@ To use this application:
 1. *Clone the repository:*
 
     bash
-    git clone https://github.com/yourusername/country-information-search.git
+    git clone https://github.com/Yashwanthv-28/country-information-search.git
     
 
 2. *Navigate to the project directory:*
@@ -45,6 +55,10 @@ To use this application:
 ## Dependencies
 
 - *REST Countries API:* The application fetches data using the REST Countries API. No additional dependencies are required.
+
+## Results
+![Country Information Search Screenshot]("C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223029.png")
+![Country Information Search Screenshot]("C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223100.png")
 
 ## Contributing
 
