@@ -9,6 +9,7 @@ A simple web application that allows users to search for country details using t
 - [Files in the Repository](#files-in-the-repository)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Results](#Results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -57,8 +58,8 @@ To use this application:
 - *REST Countries API:* The application fetches data using the REST Countries API. No additional dependencies are required.
 
 ## Results
-![Country Information Search Screenshot]("C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223029.png")
-![Country Information Search Screenshot]("C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223100.png")
+![Country Information Search Screenshot](C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223029.png)
+![Country Information Search Screenshot](C:\Users\Yashwanth V\Pictures\Screenshots\Screenshot 2024-08-30 223100.png)
 
 ## Contributing
 
